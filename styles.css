@@ -1,0 +1,135 @@
+ body{
+    font-family: "montserrat";
+
+ }
+ #navbarSupportedContent{
+    margin-left: 600px;
+ }
+ #title{
+    background-color: #ff4c68;
+ }
+ .ubuntu-regular {
+   font-family: "Ubuntu", sans-serif;
+   font-weight: 400;
+   font-style: normal;
+ }
+
+
+
+ .col-lg-6  h1{
+    font-family: "montserrat";
+    font-weight: bold;
+    font-size: 3.9rem;
+     line-height: 1.5;
+     font-weight: 600px;
+     color: white;
+ }
+ .container-fluid{
+    padding: 3% 13% 7%;
+    
+ }
+ .navbar{
+    padding: 0 0 4.5rem;
+ }
+ .navbar-brand{
+   font-family: "ubuntu";
+    font-size: 3rem;
+    font-weight: 600px;
+ }
+ .nav-item{
+    padding: 0 18px;
+ }
+ .nav-link{
+    font-size: 1.2rem;
+    font-family: arial;
+ }
+
+ /* download button */
+ .download-button{
+    margin: 5% 3% 5% 0;
+ }
+
+ .title-image{
+    width: 20%;
+    transform: rotate(25deg);
+    position: absolute;
+    right: 20%;
+ }
+
+ /* feauture */
+ .features{
+    text-align: center;
+    margin: 10px auto;
+ }
+ .features h3{
+    font-family: "montserrat";
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: rgb(3, 0, 0);
+   
+ }
+ .features p{
+    color: #8f8f8f;
+    width: 70%;
+    margin: 10px auto;
+    text-align: center;
+ }
+ #feature{
+    padding: 7% 15%;
+    background-color: white;
+   
+    position: relative;
+  
+ }
+ .icon{
+   color: #ef8172;
+   padding: 20px;
+ }
+ .icon:hover{
+   color: #ff4c68;
+ }
+
+ /* testimonials section */
+ #testimonials{
+   text-align: center;
+   color: white;
+   background-color: #ff4c68;
+ }
+ h2{
+   font-family: "montserrat";
+   font-weight: bold;
+   font-size: 3.5rem;
+   line-height: 1.5;
+
+ }
+ .dog{
+   border-radius: 100%;
+   width: 10%;
+   margin: 20px;
+ }
+ .testimonial-image{
+   border-radius: 100%;
+   width: 10%;
+   margin: 20px;
+ }
+
+ /* press sec  */
+ #press{
+   background-color: #ff4c68;
+   text-align: center;
+   padding-bottom: 3%;
+ }
+ .press-img{
+   width: 15%;
+   margin: 20px 20px 50px;
+ }
+ .carousel-item{
+   padding: 7% 15%;
+ }
+ #pricing{
+   padding: 100px;
+   text-align: center;
+ }
+ .pricing-column{
+   padding: 3% 2%;
+ }
